@@ -1,0 +1,19 @@
+name: nginx-buildpack
+version: 1.0.4.1
+commit_hash: 2cd926a
+uncommitted_changes: false
+jobs:
+- name: nginx-buildpack
+  version: ef9a6fa6ce53d0e7b788e34c70b4411837459860
+  fingerprint: ef9a6fa6ce53d0e7b788e34c70b4411837459860
+  sha1: a4a2f5f74afe0d9fa4a02de8d93de195e8f0b771
+packages:
+- name: nginx-buildpack
+  version: 383f1369003ed1f94da8c647826b7716e4635a4e
+  fingerprint: 383f1369003ed1f94da8c647826b7716e4635a4e
+  sha1: 61386931276938d22695ab596df513b63712d39b
+  dependencies: []
+license:
+  version: b75c8704f81ab10046cefd309f92fb8b08a1b95f
+  fingerprint: b75c8704f81ab10046cefd309f92fb8b08a1b95f
+  sha1: c8c7dee9a5f5b1c455781518758017098b64a816
