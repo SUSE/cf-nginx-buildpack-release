@@ -11,4 +11,6 @@ builds:
     version: 1.0.6.1
   a7bbd9d1-0e9f-47fd-4902-f01787514961:
     version: 1.0.5.1
+  f911b389-49eb-4eae-704f-fcef34c7003d:
+    version: 1.0.8.3
 format-version: "2"
