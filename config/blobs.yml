@@ -1,5 +1,5 @@
 ---
-nginx-buildpack/nginx-buildpack-v1.0.9.1-1.1-12085ff8.zip:
-  size: 7822822
-  object_id: nginx-buildpack-v1.0.9.1-1.1-12085ff8.zip
-  sha: 12085ff89d928d209dc6dca451d9c877838909bf
+nginx-buildpack/nginx-buildpack-v1.0.10.1-1.1-621d83bd.zip:
+  size: 7824713
+  object_id: nginx-buildpack-v1.0.10.1-1.1-621d83bd.zip
+  sha: 621d83bd5f2dd85f78e9e2b4720040b541f9714e
