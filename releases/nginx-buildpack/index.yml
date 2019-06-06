@@ -17,6 +17,8 @@ builds:
     version: 1.0.10.1
   a7bbd9d1-0e9f-47fd-4902-f01787514961:
     version: 1.0.5.1
+  dfd72ae8-0cc5-4cd2-7ab3-fd1e35d006fb:
+    version: 1.0.13.1
   f146c712-ce37-4212-6f77-30db0f7e10fc:
     version: 1.0.9.1
   f911b389-49eb-4eae-704f-fcef34c7003d:
