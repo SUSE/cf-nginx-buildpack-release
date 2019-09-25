@@ -1,4 +1,0 @@
----
-name: nginx-buildpack
-files:
-- nginx-buildpack/nginx?buildpack-*.zip

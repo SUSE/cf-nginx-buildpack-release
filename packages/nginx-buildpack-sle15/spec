@@ -1,0 +1,4 @@
+---
+name: nginx-buildpack-sle15
+files:
+- nginx-buildpack/nginx?buildpack-sle15-*.zip
