@@ -1,5 +1,5 @@
 ---
-final_name: nginx-buildpack
+final_name: suse-nginx-buildpack
 blobstore:
   provider: s3
   options:
