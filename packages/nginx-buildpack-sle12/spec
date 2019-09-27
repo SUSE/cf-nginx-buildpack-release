@@ -1,4 +1,0 @@
----
-name: nginx-buildpack-sle12
-files:
-- nginx-buildpack/nginx?buildpack-sle12-*.zip

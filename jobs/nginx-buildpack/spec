@@ -3,7 +3,6 @@ name: nginx-buildpack
 templates: {}
 
 packages:
-- nginx-buildpack-sle12
 - nginx-buildpack-sle15
 
 properties: {}
