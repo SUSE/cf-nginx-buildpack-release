@@ -1,5 +1,5 @@
 ---
-name: nginx-buildpack
+name: suse-nginx-buildpack
 templates: {}
 
 packages:
