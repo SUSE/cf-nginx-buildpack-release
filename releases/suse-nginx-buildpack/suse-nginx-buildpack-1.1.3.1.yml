@@ -1,0 +1,21 @@
+name: suse-nginx-buildpack
+version: 1.1.3.1
+commit_hash: efc4e37
+uncommitted_changes: false
+jobs:
+- name: suse-nginx-buildpack
+  version: ea9e519344aa56274b9195fba25d2bf33276e20a8c7f353e5534f53f689826cf
+  fingerprint: ea9e519344aa56274b9195fba25d2bf33276e20a8c7f353e5534f53f689826cf
+  sha1: sha256:cb2447ab7a3bbcb9b98c44d5e235d73c785406d27c0896fdd989620f15cefdcc
+  packages:
+  - nginx-buildpack-sle15
+packages:
+- name: nginx-buildpack-sle15
+  version: f3e4e73923350795bd776b859bb8f9a6c59dd87cae9d81ed7eb5ee290845483c
+  fingerprint: f3e4e73923350795bd776b859bb8f9a6c59dd87cae9d81ed7eb5ee290845483c
+  sha1: sha256:1a89d44fd2512215e16e8fe14cf5b3722fe7ef9f4a200560325642ba0e2759da
+  dependencies: []
+license:
+  version: d498d3cee3a6e27c39db6ab190792bd5cfee804fa329fc550673d2801900dbdd
+  fingerprint: d498d3cee3a6e27c39db6ab190792bd5cfee804fa329fc550673d2801900dbdd
+  sha1: sha256:73b38df3f9bf74ba9e3053c064a64c6d3d1e0c283157ed9acd377d51ac3d0fdd
