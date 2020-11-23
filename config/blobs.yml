@@ -1,5 +1,5 @@
 ---
-nginx-buildpack/nginx-buildpack-sle15-v1.1.15.1-1.1-e1a3a822.zip:
-  size: 8364198
-  object_id: nginx-buildpack-sle15-v1.1.15.1-1.1-e1a3a822.zip
-  sha: sha256:e1a3a8226e2f686c574bd08775ad33ad6a3ee0b058812f184cfd3c2bf7f98f17
+nginx-buildpack/nginx-buildpack-sle15-v1.1.18.1-1.1-a40cc510.zip:
+  size: 8363243
+  object_id: nginx-buildpack-sle15-v1.1.18.1-1.1-a40cc510.zip
+  sha: sha256:a40cc510a702839440a73ce79ee2b6b6bd833da116bcb274763b7f1db1b5c80f
